@@ -1,0 +1,15 @@
+.header{
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+.header img {
+    height: 2rem;
+}
+
+.header span{
+    color: var(--purple-400);
+    font-size: 1.5rem;
+}
